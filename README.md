@@ -1,15 +1,16 @@
-# StatusBar ANE v0.1.1
+# StatusBar ANE v0.2.0
 
-Adobe native extension for changing iOS status bar style.
+PRO Native Extension for Adobe AIR for changing iOS status bar style.
 
 ## Status
 
-This demo is fully functional example. You can test ANE functions without any limitations. In order to make it working 
-in your app you should receive license key for your application id.
+This demo is fully functional example. You can test ANE functions without any limitations. If you want it to be running
+in your application you can purchase any number of licenses each for up to 3 applications and without any limitations in time! 
+License server can be found here [http://kavolorn.ru/pro-native-extensions](http://kavolorn.ru/pro-native-extensions).
 
 ANE supports iPhone-ARM and iPhone-x86 including x64 bit platforms introduced in Adobe AIR SDK 16.
 
-Extension is build with 16.0.0.245 Adobe AIR SDK and iOS 8.1 SDK.
+Extension is build with 16.0.0.259 Adobe AIR SDK and iOS 8.1 SDK.
 
 Repository contains module file for IntelliJ IDEA.
 
@@ -17,3 +18,17 @@ Repository contains module file for IntelliJ IDEA.
 
 iOS minVersion 7.0
 
+## Version history
+
+### 0.2.0
+
+- License time limit has been eliminated.
+- Initialization success event has been added.
+
+### 0.1.1
+
+- License check bug has been fixed.
+
+### 0.1.0
+
+- Initial release.
