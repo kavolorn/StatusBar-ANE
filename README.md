@@ -1,6 +1,6 @@
 # StatusBar ANE v0.2.0
 
-PRO Native Extension for Adobe AIR for changing iOS status bar style.
+PRO Native Extension for Adobe AIR which changes iOS status bar style.
 
 ## Status
 
@@ -16,7 +16,7 @@ Repository contains module file for IntelliJ IDEA.
 
 ## Requirements
 
-iOS minVersion 7.0
+iOS 7.0+
 
 ## Version history
 
